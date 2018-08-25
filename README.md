@@ -1,1 +1,2 @@
-# mean_starter
+# MERN Starter Kit
+
